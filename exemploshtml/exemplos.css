@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin: 0px;
+    padding: 20px;
+   
+}
+
+.container {
+    background-color: #161616;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 1000;
+    height: 200;
+}
+
+.container-align {
+    background-color: black;
+    padding: 10px;
+
+}
+
+
+.minha-imagem {
+    width: 200px;
+    height: auto;
+    border: 1px solid #000;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+    margin-left: 10px ;
+}
+
+.span {
+    color: rgb(235, 17, 17);
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 800;
+}
+

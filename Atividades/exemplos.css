@@ -1,0 +1,84 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin: 0px;
+    padding: 20px;
+}
+
+.container {
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 900; 
+    height: 500;
+}
+
+.movie-tittle {
+    color:azure
+
+}
+
+.container-align {
+    background-color: black;
+    padding: 10px;
+
+}
+
+.sinopse {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.minha-imagem {
+    width: 300px;
+    height: auto; 
+    border: 2px solid #000;
+    border-radius: 10px; 
+    display: block; 
+    margin: 20px auto; 
+}
+h1 {
+    color: hsla(0, 0%, 100%, 0.932);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: white
+}
+  
+.span {
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 800;
+}
+
+button1 {
+    color: red;
+    font-weight: 90;
+    float: left;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; 
+  }
+
+button2 {
+    color: red;
+    font-weight: 90;
+    float: right;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
